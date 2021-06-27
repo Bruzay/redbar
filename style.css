@@ -813,7 +813,7 @@ top: 2068px;
 
 
 
-@media screen and (max-width: 880px) {
+@media (max-width: 480px) {
     .p{
         position: absolute;
         width: 64px;
